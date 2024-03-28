@@ -1,1 +1,2 @@
-C'est un mini projet du chapitre Normalizing flows du cours Deep generative models que j'ai suivi à l'université technique de Munich
+## This is the project of the chapter "Normalizing Flows" of the course "Deep geenerative models" suggested by the technical university of Munich.
+In this project we will implement two normalizing flow (NF) layers, stack tranformations, and train the model with maximum likelihood on 3 datasets.
